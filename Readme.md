@@ -6,6 +6,7 @@
 
 ## Table of contents
 
+Spam test
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Features](#features)
